@@ -1,0 +1,21 @@
+.task {
+    border: 1px solid orangered;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: start;
+    border-radius: 10px;
+    background-color: rgb(255, 248, 248);
+}
+
+.task-name {
+    display: flex;
+}
+
+.user-id {
+    padding-right: 1rem;
+    border-right: 1px solid #333;
+}
+
+.task p {
+    margin: 1rem;
+}
